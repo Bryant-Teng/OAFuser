@@ -1,2 +1,3 @@
-# OAFuser： Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes (T-IV2023)
-
+<center>
+## OAFuser： Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes (T-IV2023)
+<\center>
