@@ -49,7 +49,7 @@ Light field cameras can provide rich angular and spatial information to enhance 
     (Overview)
 </p>
 <p align="center">
-    <div align=center><img src="assets/Figtwo.jpg" width="800" height="674" /></div>
+    <div align=center><img src="assets/Figtwo.jpg" width="850" height="330" /></div>
 <br><br>
 
 ### Contact
