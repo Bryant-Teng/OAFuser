@@ -1,5 +1,5 @@
 <div align="center">
-### <p align="center">OAFuser： Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes
+<p align="center">OAFuser： Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes
 
 <br>
 
