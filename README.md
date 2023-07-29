@@ -26,7 +26,7 @@
 
 </div>
 
-<div align=center><img src="assets/Figone.jpg" width="850" height="330" /></div>
+<div align=center><img src="assets/Figone.jpg" width="820" height="400" /></div>
 
 ### Update
 
