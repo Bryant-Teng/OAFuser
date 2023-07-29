@@ -1,6 +1,6 @@
 <div align="center">
 
-# OAFuser： Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes (T-IV2023)
+# OAFuser： Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes
 
 </div>
 
