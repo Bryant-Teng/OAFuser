@@ -31,6 +31,7 @@
 ### Update
 
 - 2023.07.29 Init repository.
+- 2023.07.31 Release the [arXiv](https://arxiv.org/abs/2307.15588) version.
 
 
 
