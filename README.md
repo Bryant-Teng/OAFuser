@@ -15,7 +15,7 @@
 
  <br>
 
-  <a href="https://github.com/FeiBryantkit/OAFuser" target="_blank">Paper</a>
+  <a href="[https://github.com/FeiBryantkit/OAFuser](https://arxiv.org/abs/2307.15588)" target="_blank">Paper</a>
 
 # 
 
