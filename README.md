@@ -1,17 +1,20 @@
 <div align="center">
-<p align="center">OAFuser： Towards Omni-Aperture Fusion for Light Field Semantic Segmentation of Road Scenes
+<p align="center">OAFuser： Towards Omni-Aperture Fusion for Light Field Semantic Segmentation
 
 <br>
 
 <div align="center">
-  Fei&nbsp;Teng</a> <b>&middot;</b>
-  <a href="https://www.researchgate.net/profile/Jiaming-Zhang-10" target="_blank">Jiaming&nbsp;Zhang</a> <b>&middot;</b>
-  <a href="https://www.researchgate.net/profile/Kunyu-Peng" target="_blank">Kunyu&nbsp;Peng</a> <b>&middot;</b>
-  <a href="https://www.researchgate.net/profile/Kailun-Yang" target="_blank">Kailun&nbsp;Yang</a> 
-<b>&middot;</b>
+  Fei&nbsp;Teng</a> 
+  <b>&middot;</b>
+  <a href="https://www.researchgate.net/profile/Jiaming-Zhang-10" target="_blank">Jiaming&nbsp;Zhang</a> 
+  <b>&middot;</b>
+  <a href="https://www.researchgate.net/profile/Kunyu-Peng" target="_blank">Kunyu&nbsp;Peng</a> 
+  <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Yaonan-Wang" target="_blank">Yaonan&nbsp;Wang</a> 
-<b>&middot;</b>
+  <b>&middot;</b>
   <a href="https://www.researchgate.net/profile/Rainer-Stiefelhagen" target="_blank">Rainer&nbsp;Stiefelhagen</a>
+  <b>&middot;</b>
+  <a href="https://www.researchgate.net/profile/Kailun-Yang" target="_blank">Kailun&nbsp;Yang</a> 
 
  <br>
 
