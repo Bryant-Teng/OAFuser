@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">:hammer_and_wrench: :construction_worker: :rocket:</p>
-<p align="center">:fire: We will release code and checkpoints in the future. :fire:</p>
+<p align="center">:fire: This repository is an integration of OAFuser and LFTrancy. :fire:</p>
 
 </div>
 
