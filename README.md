@@ -43,7 +43,9 @@
 
 - [ ] Release the arXiv version.
 - [ ] The code for OAFuser has been released.
-- [ ] The integration of OAFuser and LFTracy wil be released.
+- [ ] The integration of OAFuser and LFTracy will be released.
+- [ ] Train and Eval strategy will be released.
+- [ ] Checkpoints will be released.
 
 ### Abstract
 
