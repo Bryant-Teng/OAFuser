@@ -32,7 +32,7 @@
 <div align=center><img src="assets/Figone.jpg" width="820" height="400" /></div>
 
 ### Update
-- 2023.10.08 Given that we are still conducting further research on Light Field Scene Understanding, the code will be released in subsequent versions. (Any questions, please contact the email at tengfei_tf@outlook.com.)
+- 2024.08.04 This repository is an integration of OAFuser and LFTrancy.
 - 2023.09.25 Codestuff is on processing.
 - 2023.07.29 Init repository.
 - 2023.07.31 Release the [arXiv](https://arxiv.org/abs/2307.15588) version.
