@@ -58,6 +58,7 @@ Light field cameras can provide rich angular and spatial information to enhance 
     <div align=center><img src="assets/Figtwo.jpg" width="850" height="330" /></div>
 <br><br>
 
-### Contact
 
-Feel free to contact me if you have additional questions or have interests in semantic segmentation based on light field camera. Please drop me an email at tengfei_tf@outlook.com
+
+
+
