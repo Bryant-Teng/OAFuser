@@ -6,8 +6,8 @@ from einops import rearrange
 class CARM(nn.Module):
     def __init__(self, channels):
         super(AltFilter, self).__init__()
-        self.epi_trans = BasicTrans(channels, channels*2)
-        self.conv = nn.Sequential(
+        self.global = BasicTrans(channels, channels*2)
+        self.local = nn.Sequential(
             nn.Conv3d(channels, channels, kernel_size=(1, 3, 3), padding=(0, 1, 1), bias=False),
             nn.LeakyReLU(0.2, inplace=True),
             nn.Conv3d(channels, channels, kernel_size=(1, 3, 3), padding=(0, 1, 1), bias=False),
@@ -22,15 +22,15 @@ class CARM(nn.Module):
 
         # Horizontal
         buffer = rearrange(buffer, 'b c (u v) h w -> b c (v w) u h', u=I_u, v=I_v)
-        buffer = self.epi_trans(buffer)
+        buffer = self.global(buffer)
         buffer = rearrange(buffer, 'b c (v w) u h -> b c (u v) h w', u=I_u, v=I_v, h=h, w=w)
-        buffer = self.conv(buffer) + shortcut
+        buffer = self.local(buffer) + shortcut
 
         # Vertical
         buffer = rearrange(buffer, 'b c (u v) h w -> b c (u h) v w', u=I_u, v=I_v)
-        buffer = self.epi_trans(buffer)
+        buffer = self.global(buffer)
         buffer = rearrange(buffer, 'b c (u h) v w -> b c (u v) h w', u=I_u, v=I_v, h=h, w=w)
-        buffer = self.conv(buffer) + shortcut
+        buffer = self.local(buffer) + shortcut
 
         buffer_1,buffer_2=torch.unbind(buffer,dim=2)
         return buffer_1,buffer_2
