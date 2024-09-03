@@ -62,7 +62,15 @@ Light field cameras can provide rich angular and spatial information to enhance 
     <div align=center><img src="assets/Figtwo.jpg" width="850" height="330" /></div>
 <br><br>
 
+### 🤝 Publication:
+Please consider referencing this paper if you use the ```code``` or ```data``` from our work.
+Thanks a lot :)
 
-
-
-
+```
+@article{teng2024oafuser,
+  title={OAFuser: Towards omni-aperture fusion for light field semantic segmentation of road scenes},
+  author={Teng, Fei and Zhang, Jiaming and Peng, Kunyu and Wang, Yaonan and Stiefelhagen, Rainer and Yang, Kailun},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2024}
+}
+```
