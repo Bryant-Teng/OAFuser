@@ -1,5 +1,7 @@
 <div align="center">
-<p align="center">OAFuser： Towards Omni-Aperture Fusion for Light Field Semantic Segmentation
+<p align="center">OAFuser: Towards Omni-Aperture Fusion for Light Field Semantic Segmentation
+
+<p align="center">IEEE Transactions on Artificial Intelligence, 2024
 
 <br>
 
